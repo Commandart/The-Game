@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource lang="/img" prefix="/*.img"/>
+    <qresource prefix="/">
+        <file>img/blue.jpg</file>
+        <file>img/question.jpg</file>
+        <file>img/yellow.jpg</file>
+        <file>img/setting_default.txt</file>
+        <file>img/tiger.jpg</file>
+        <file>img/hamon.jpg</file>
+        <file>img/moon.jpg</file>
+        <file>img/war.jpg</file>
+    </qresource>
+</RCC>
