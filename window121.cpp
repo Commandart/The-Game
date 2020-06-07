@@ -58,7 +58,7 @@ void window121::on_pushButton_answer_clicked()
         ui->label_result->setStyleSheet("color: red; background: white");
         ui->label_result->setWordWrap(true);
         ui->label_result->setText("Неверно!"
-                                  " Это Египетские Пирамиды");
+                                  " Египетские пирамиды");
         score -= 200;
         ui->label_score->setText(QString::number(score));
         ui->pushButton_answer->setEnabled(false);
